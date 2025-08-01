@@ -1,0 +1,29 @@
+mnemonic (12 words)
+there inhale another gap cupboard pumpkin arm height flash confirm letter kind
+private key
+Raw: 2468c389aa288dfd78bc992f9dc3a2e302c09c73e730d8c30ab9d6878757135f
+B64: JGjDiaoojf14vJkvncOi4wLAnHPnMNjDCrnWh4dXE18=
+public key
+Raw: dfeaea11ee3324056b2f8d14081b04266b61b6fc0d0f6b6577a0a87cc1683283
+B64: 3+rqEe4zJAVrL40UCBsEJmthtvwND2tld6CofMFoMoM=
+octra address
+oct3CezQ3AZE9sJXNPKtA8Si2oz79xdQLYyjCKjwXWkMMth
+technical information
+Entropy: e06e74262fa35d5b42eb555865de023d
+Seed: aeeedc8c8c99a2f4461e65f5c517eedcc3d441d51f1e02eda3bf1a281f0bffe2...
+Master Chain: 93bb7568b9c788ffc1a01096abae35957e4086cb864e33ac17de580bb0f65883
+signature test
+Message: {"from":"test","to":"test","amount":"1000000","nonce":1}
+Signature: qF6D9tyzhlw1iy4cggx9x4ZvhMIZHp/6+0Nm7h30EdPHdyUBLfB60q86K9xsjt8wT0P3iYAu3F/AIcAG9BrgCA==
+Validation: VALID
+HD derivation
+Network Type: 
+MainCoin
+ Index: 
+0
+ derive
+Derived Address: oct8wtxHxfAjNfZjpiSor8tzKWjJ7VPfGyFSbzC4UByACja
+Path: 345'/0'/0'/0'/0'/0'/0'/0
+file saved
+Filename: octra_wallet_wXWkMMth_1754023841.txt
+Location: In the same directory as this script
